@@ -2,7 +2,7 @@
 
 An AI-powered, all-in-one website for MSMEs, featuring a dynamic public interface, an intelligent service & pricing chatbot, built on a high-performance Cloudflare serverless stack.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/creziapro-maker/Creziapro)
 
 ---
 
@@ -94,7 +94,7 @@ This project is designed for seamless deployment to Cloudflare.
 
 You can deploy this application to your Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/creziapro-maker/Creziapro)
 
 ### Manual Deployment via Wrangler
 
